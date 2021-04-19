@@ -1,0 +1,6 @@
+module Pods_Crudoperation_CrudoperationTests {
+  umbrella header "Pods-Crudoperation-CrudoperationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

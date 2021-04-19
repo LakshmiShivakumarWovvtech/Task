@@ -1,0 +1,6 @@
+module Pods_Crudoperation {
+  umbrella header "Pods-Crudoperation-umbrella.h"
+
+  export *
+  module * { export * }
+}
